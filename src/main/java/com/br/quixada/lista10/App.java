@@ -1,4 +1,4 @@
-package com.br.quixada.gestao;
+package com.br.quixada.lista10;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
